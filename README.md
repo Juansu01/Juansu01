@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning Keras.
 - 🥅 2022 Goals: Learn more about front-end development and machine learning.
 - ⚡ Fun fact: I think cats are the absolute best.
-
+- 🤖 I'm a machine learning enthusiast.
 ### Connect with me:
 
 [<img align="left" alt="JuanCamilo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -30,5 +30,10 @@
 <br />
 
 ---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [linkedin]: https://www.linkedin.com/in/juancamilocadavidv/

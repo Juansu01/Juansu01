@@ -1,0 +1,17 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://thejuank0.medium.com/what-happens-when-you-type-an-url-in-your-browser-and-press-enter-e9a7db3fc542",
+          "https://thejuank0.medium.com/heres-what-i-know-about-iot-33a72c6262cf"
