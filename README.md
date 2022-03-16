@@ -2,7 +2,7 @@
 
 ## I'm a developer, gamer, and I love cats 🐱
 
-- 🌱 I'm currently learning Keras.
+- 🌱 I'm currently learning Django.
 - 🥅 2022 Goals: Learn more about front-end development and machine learning.
 - ⚡ Fun fact: I think cats are the absolute best.
 - 🤖 I'm a machine learning enthusiast.
