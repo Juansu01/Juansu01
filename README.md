@@ -1,6 +1,6 @@
 ### Hi there I'm Juan Camilo 👋
 
-## I'm a developer, gamer, and I love going to the gym 🏋️‍♂️
+## I'm a developer, gamer, and I love cats 🐱
 
 - 🌱 I'm currently learning Keras.
 - 🥅 2022 Goals: Learn more about front-end development and machine learning.
