@@ -50,4 +50,4 @@
 
 <img align="left" alt="Juansu01's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juansu01&layout=compact&theme=codeSTACKr" />
 
-[linkedin]: https://www.linkedin.com/in/juancamilocadavidv/
+[linkedin]: https://www.linkedin.com/in/juancamilocadavidvelasquez/
