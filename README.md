@@ -9,7 +9,9 @@
 
 ### Connect with me
 
-[<img align="left" alt="JuanCamilo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://www.linkedin.com/in/juancamilocadavidvelasquez/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+ </a>
 
 <br />
 
