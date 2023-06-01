@@ -27,18 +27,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [What happens when you type an URL in your browser and press enter](https://thejuank0.medium.com/what-happens-when-you-type-an-url-in-your-browser-and-press-enter-e9a7db3fc542)
-- [Here’s what I know about IoT](https://thejuank0.medium.com/heres-what-i-know-about-iot-33a72c6262cf)
-- [Python… Everything is an object!](https://thejuank0.medium.com/python-everything-is-an-object-a947a3b47bc5)
-- [C dynamic libraries](https://thejuank0.medium.com/c-dynamic-libraries-ed3b46c0589f)
-- [C static libraries](https://thejuank0.medium.com/c-static-libraries-417c96d74b06)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### ⚡ My GitHub Stats
 
 <img align="left" alt="Juansu01's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Juansu01&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
